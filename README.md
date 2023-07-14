@@ -2,10 +2,12 @@
 
 A landing page developed using Next JS and Tailwind CSS
 
-## [Demo Link](https://netflix-clone-nextjs-rosy.vercel.app) 🔗
+## [Demo Link](https://multor-landing-page-mu.vercel.app/) 🔗
+
+## [Design Reference Link](https://templates.unbounce.com/multor/) 🔗
 
 <div align="center">
-  <img src="https://www.vivekkhanal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetflix-1.c837220b.webp&w=3840&q=75" alt="Netflix clone demo" width="100%" />
+  <img src="https://www.vivekkhanal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetflix-1.c837220b.webp&w=3840&q=75" alt="Multor Landing Page" width="100%" />
   <br>
 </div>
 

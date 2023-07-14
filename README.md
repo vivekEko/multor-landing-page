@@ -6,8 +6,14 @@ A landing page developed using Next JS and Tailwind CSS
 
 ## [Design Reference Link](https://templates.unbounce.com/multor/) 🔗
 
+## Screenshots 📷📸
+
 <div align="center">
-  <img src="https://www.vivekkhanal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetflix-1.c837220b.webp&w=3840&q=75" alt="Multor Landing Page" width="100%" />
+  <img src="/src/assets/secreenshot-1.png" alt="Multor Landing Page1" width="100%" />
+  <img src="/src/assets/secreenshot-2.png" alt="Multor Landing Page2" width="100%" />
+  <img src="/src/assets/secreenshot-3.png" alt="Multor Landing Page3" width="100%" />
+  <img src="/src/assets/secreenshot-4.png" alt="Multor Landing Page4" width="100%" />
+  <img src="/src/assets/secreenshot-5.png" alt="Multor Landing Page5" width="100%" />
   <br>
 </div>
 

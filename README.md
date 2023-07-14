@@ -27,10 +27,10 @@ From your command line, first clone this repo:
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/dev-vivekkhanal/NetflixClone-nextjs
+$ git clone https://github.com/vivekEko/multor-landing-page.git
 
 # Go into the repository
-$ cd NetflixClone-nextjs
+$ cd multor-landing-page
 
 ```
 
@@ -43,10 +43,13 @@ Using NPM:
 # Install dependencies
 $ npm install
 
+# Run the app
+$ npm run dev
+
 ```
 
 ## Author 👨‍💻
 
-- **Vivek Khanal** - **[Linkedin](https://www.linkedin.com/in/vivek-khanal-793016231/)**, **[Github](https://github.com/dev-vivekkhanal)**, **[Portfolio](https://vivekkhanal.com)**
+- **Vivek Khanal** - **[Linkedin](https://www.linkedin.com/in/vivek-khanal-793016231/)**, **[Github](https://github.com/dev-vivekkhanal)**, **[Github](https://github.com/vivekEko)**, **[Portfolio](https://vivekkhanal.com)**
 
 ---

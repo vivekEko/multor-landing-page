@@ -146,7 +146,7 @@ const SecondSection = () => {
             <div className="text-center  w-full">
               <h1 className="text-3xl">Thank You!</h1>
               <p className="px-5 mt-5">
-                We'll reach out to confirm your appointment shortly.
+                We&apos;ll reach out to confirm your appointment shortly.
               </p>
             </div>
           </div>

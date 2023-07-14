@@ -7,11 +7,11 @@ const ThirdSection = () => {
       <div className="max-w-[400px] sm:max-w-none md:max-w-[1000px]  mx-auto">
         <div className=" text-center mx-auto md:py-20 sm:max-w-[70%]">
           <h1 className="text-3xl md:text-5xl font-semibold ">
-            Show visitors what they're signing up for
+            Show visitors what they&apos;re signing up for
           </h1>
           <p className="mt-5 pb-10">
             Include a video or photo from one of your sessions to help people
-            understand your service (or just to hype ‘em up).
+            understand your service or just to hype them up.
           </p>
         </div>
       </div>

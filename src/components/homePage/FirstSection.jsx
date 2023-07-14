@@ -26,8 +26,8 @@ const FirstSection = () => {
         </h1>
 
         <p className=" text-xl max-w-[600px]">
-          No need to get clever. Tell people exactly what you're offering, then
-          use this space to communicate your key value proposition.
+          No need to get clever. Tell people exactly what you&apos; re offering,
+          then use this space to communicate your key value proposition.
         </p>
       </div>
     </section>

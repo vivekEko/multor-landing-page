@@ -65,7 +65,7 @@ const FourthSection = () => {
 
       <div className="py-24 text-center">
         <h2 className="font-semibold text-sm text-[#00c2c5]">
-          DON'T JUST TAKE OUR WORD FOR IT
+          DON&apos;T JUST TAKE OUR WORD FOR IT
         </h2>
       </div>
 
